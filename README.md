@@ -26,4 +26,5 @@ Automated job search pipeline that:
 
 ## Usage
 
+Update the `config` dictionary in `main.py` with your desired settings.
 Run the pipeline:
