@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+google-generativeai
+python-docx
+schedule
+requests 
